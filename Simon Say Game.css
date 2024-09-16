@@ -1,0 +1,44 @@
+* {
+    margin: 0;
+    text-align: center;
+}
+
+.choice {
+    height: 175px;
+    width: 175px;
+    border-radius: 25px;
+    margin: 1rem;
+    border: 5px solid black;
+}
+
+.container {
+    justify-content: center;
+}
+
+.pink {
+    background-color:  pink;
+}
+
+.blue {
+    background-color:  aquamarine;
+}
+
+.orange {
+    background-color:  chocolate;
+}
+
+.skyblue {
+   background-color: skyblue;
+}
+
+h1 , h3 {
+    margin: 10px;
+}
+
+.flash {
+    background-color: white;
+}
+
+.userFlash {
+    background-color: green;
+}
